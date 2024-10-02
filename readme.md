@@ -13,3 +13,8 @@
 ![image](https://github.com/user-attachments/assets/913cb3e1-7c1c-4867-a3a7-522c41713d05)
 
 ![image](https://github.com/user-attachments/assets/8240bb63-fd77-45ea-8fbc-f69b17f62368)
+
+## Faker:
+![image](https://github.com/user-attachments/assets/ce4bec43-f016-4739-8ef3-61c092eb6664)
+
+![image](https://github.com/user-attachments/assets/7a2ce4d9-14fa-4d9e-9472-72ed6d0b689e)
