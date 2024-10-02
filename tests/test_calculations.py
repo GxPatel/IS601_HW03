@@ -11,6 +11,30 @@ def test_add_calculation():
     Calculations.add_calculation(calc)
     assert len(Calculations.history) == 1
 
+def test_subtract_calculation():
+    '''Test subtracting a calculation and adding it to the history'''
+    Calculations.clear_history()
+    calc = Calculation(Operations.subtract, [5, 3])
+    Calculations.add_calculation(calc)
+    assert len(Calculations.history) == 1
+    assert Calculations.get_last_calculation().get_result() == 2
+
+def test_multiply_calculation():
+    '''Test multiplying a calculation and adding it to the history'''
+    Calculations.clear_history()
+    calc = Calculation(Operations.multiply, [3, 4])
+    Calculations.add_calculation(calc)
+    assert len(Calculations.history) == 1
+    assert Calculations.get_last_calculation().get_result() == 12
+
+def test_divide_calculation():
+    '''Test dividing a calculation and adding it to the history'''
+    Calculations.clear_history()
+    calc = Calculation(Operations.divide, [10, 2])
+    Calculations.add_calculation(calc)
+    assert len(Calculations.history) == 1
+    assert Calculations.get_last_calculation().get_result() == 5
+
 def test_get_last_calculation():
     '''Test retrieving the entire calculation history'''
     calc = Calculation(Operations.multiply, [2, 3])
