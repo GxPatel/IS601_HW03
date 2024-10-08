@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/9cb69a2e-e934-4eac-be78-b5288a962e59)
 ![image](https://github.com/user-attachments/assets/19068b52-6ca2-4482-a677-033287aa0cd2)
 
-## Covrage
+## Coverage
 ![image](https://github.com/user-attachments/assets/f89eb0fe-5aa3-4c0c-ad0b-474026d015c9)
 
 ## App running
