@@ -1,9 +1,6 @@
-## Homework 3 Instructions
+## Homework 5 Instructions
 
-1. Add, Subtract, Multiply, and Divide.
-2. Throw exception for divide by zero and test that the exception is thrown.
-3. Use at least one class, at least one static method, at least one class method.
-4. It needs to store a history of calculations, so that you can retrieve the last calculation, add a calculation.
-5. It needs to have 100% test coverage, pass pylint, and you need to do your best to not repeat any lines of code.
-6. You should use type hints for input parameter types and return types.
-7. Implement a pytest fixture to test the calculator.
+1. Development of an interactive command-line application that operates continuously.
+2. Transitioning from a single-execution script to a fully functional application.
+3. Explore the command pattern, how to dynamically load commands using a simple plugin architecture.
+4. Understand the use of exceptions versus conditional statements to manage invalid data inputs.
