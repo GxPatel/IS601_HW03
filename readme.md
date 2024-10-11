@@ -24,4 +24,4 @@
 ![image](https://github.com/user-attachments/assets/147cfab8-90cf-4bd0-aca1-661cad9f81ec)
 
 ## GitHub Actions
-![image](https://github.com/user-attachments/assets/ad28ce9a-4f1b-4053-8f10-c1857eb61917)
+![image](https://github.com/user-attachments/assets/84f6dad4-e4e5-4efa-a4d8-6f68301021f6)
