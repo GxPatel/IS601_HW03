@@ -14,3 +14,14 @@
 
 ## App running
 ![image](https://github.com/user-attachments/assets/85e18e40-45c6-4be7-ab1d-6e7a48721537)
+
+
+# Homework 6 Instructions
+
+1. Add a GitHub action to your project by copying my .github folder and the python-app.yml file that is in there and then click on the actions tab on your repository to see that when you push to the main branch that all your tests are run.
+
+## logs
+![image](https://github.com/user-attachments/assets/147cfab8-90cf-4bd0-aca1-661cad9f81ec)
+
+## GitHub Actions
+![image](https://github.com/user-attachments/assets/ad28ce9a-4f1b-4053-8f10-c1857eb61917)
